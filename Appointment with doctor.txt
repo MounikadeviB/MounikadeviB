@@ -1,0 +1,10 @@
+Doctor Appointment
+
+Prerequiste:
+1.Consulting the hospital
+
+Scenario:
+1.Giving details of patient
+2.Explaining problem or purpose to consult doctor
+3.Doctors availability
+4.Based on doctors availability ha can book our appointment 
